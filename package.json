@@ -1,0 +1,6 @@
+{
+  "name": "punterest",
+  "dependencies": {
+    "documentdb": "^1.4.0"
+  }
+}
